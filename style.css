@@ -1,0 +1,22 @@
+.form {
+    display: flex;
+    margin-bottom: 20px;
+}
+.form__input {
+    flex: 1;
+}
+
+.form__button {
+    margin-left: 3px;
+}
+
+.post__container {
+    display: flex;
+    background: #e4e4e4;
+    margin-top: 3px;
+    padding: 3px;
+}
+
+.post__content {
+    flex: 1;
+}
